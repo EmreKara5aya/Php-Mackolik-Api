@@ -1,7 +1,7 @@
 # Php Mackolik Api
 ## Açıklama
 
-Php ile verilen tarih ve iddia kodu ile istediğiniz maçı çekebilirsiniz.
+Php ile verilen tarih ve iddia kodu ile istediğiniz maçı Mackolik 'den çekebilirsiniz.
 
 ## Kullanım
 
