@@ -7,6 +7,9 @@ Php ile verilen tarih ve iddia kodu ile istediğiniz maçı Mackolik 'den çekeb
 
 Aramak istediğiniz maçları tarih (dd/mm/yyyy) ve kod adlı get değişkenlerle arayabilirsiniz.
 
+### Canlı Maç Sonuçları
+
+**[Php İle Mackolik Canlı Maç Sonuçları Çekmek İçin Tıklayın](https://github.com/EmreKara5aya/Php-Mackolik-Api/blob/master/canlisonuclar.md "Php İle Mackolik Canlı Maç Sonuçları Çekmek İçin Tıklayın")**
 ## Örnek
 
 Örnek olarak 17/09/2019 tarihli ve 139 iddia kodlu Sivasspor - Beşiktaş maçını arayalım.
