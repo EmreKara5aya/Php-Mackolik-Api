@@ -23,4 +23,4 @@ Bitcoin : 1FBLrjGWye1CjDCgz4486KvkZ2uKNzzqta
 
 ## Destek
 
-Emre Karakaya - Bir Garip Webmaster Blogu
+[Emre Karakaya - Bir Garip Webmaster Blogu](https://www.emrekarakaya.com.tr/ "Emre Karakaya - Bir Garip Webmaster Blogu")
